@@ -174,6 +174,8 @@ python HEDseg_start.py
 6. Adjust watershed threshold using slider  
 7. Visualize positive/negative contours  
 8. Navigate images and export results  
+
+![image](https://github.com/vGuNfnxXLJ/KI-67-Cell-Segmentation-and-Classification-System/blob/main/MedSeg_UI.PNG)
 ---
 
 ## External Acknowledgements
