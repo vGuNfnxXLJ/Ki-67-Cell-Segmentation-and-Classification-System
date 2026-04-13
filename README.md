@@ -34,7 +34,7 @@ This project builds an end-to-end medical image segmentation system that allows 
 
 ### Segmentation Model (U-Net via segmentation_models.pytorch)
 - Library: https://github.com/qubvel-org/segmentation_models.pytorch  
-- Version: segmentation_models.pytorch==0.3.3  
+- Version: segmentation_models_pytorch==0.3.3  
 - Architecture: U-Net  
 - Backbone: ResNet50  
 - Purpose: Perform pixel-wise segmentation of cell nuclei  
@@ -93,7 +93,7 @@ UI features include:
 ## System Architecture
 
 - UI Layer: PyQt5 interface  
-- Inference Layer: PyTorch model (segmentation_models.pytorch)  
+- Inference Layer: PyTorch model (segmentation_models_pytorch)  
 - Processing Layer: Watershed + contour extraction  
 - Image Layer: OpenCV / NumPy  
 
@@ -127,7 +127,7 @@ UI features include:
 - PyTorch == 2.1.0  
 - torchvision == 0.16.0  
 - torchaudio == 2.1.0  
-- segmentation_models.pytorch == 0.3.3  
+- segmentation_models_pytorch == 0.3.3  
 
 ### UI Framework
 - PyQt == 5.15.10  
