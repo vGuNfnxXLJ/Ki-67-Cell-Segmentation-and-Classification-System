@@ -175,6 +175,7 @@ python HEDseg_start.py
 7. Visualize positive/negative contours  
 8. Navigate images and export results  
 
+## Screenshot
 ![image](https://github.com/vGuNfnxXLJ/KI-67-Cell-Segmentation-and-Classification-System/blob/main/MedSeg_UI.PNG)
 ---
 
