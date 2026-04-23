@@ -43,7 +43,7 @@ This project builds an end-to-end medical image segmentation system that allows 
 
 ## Model Training and Integration
 
-- The segmentation model was trained separately on KI-67 dataset  
+- The segmentation model was trained separately on Ki-67 dataset  
 - After training, the model weights were exported and integrated into the system  
 - The GUI loads trained weights for inference only  
 - This design separates:
