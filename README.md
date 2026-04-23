@@ -10,7 +10,7 @@ The system integrates a pre-trained deep learning segmentation model with post-p
 
 This project builds an end-to-end medical image segmentation system that allows users to:
 
-1. Load KI-67 histopathology images  
+1. Load Ki-67 histopathology images  
 2. Perform semantic segmentation using a trained deep learning model  
 3. Classify nuclei into positive and negative cells  
 4. Refine segmentation using watershed algorithm  
